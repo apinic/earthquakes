@@ -1,0 +1,29 @@
+{
+  "name": "earthquakes",
+  "version": "0.0.1",
+  "description": "List of earthquakes in Nicaragua",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^8.0.0",
+    "ineter": "0.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apinic/earthquakes.git"
+  },
+  "keywords": [
+    "earthquakes",
+    "nicaragua",
+    "api"
+  ],
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apinic/earthquakes/issues"
+  },
+  "homepage": "https://github.com/apinic/earthquakes"
+}
