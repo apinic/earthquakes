@@ -1,0 +1,10 @@
+{
+  "name": "earthquakes",
+  "description": "List of earthquakes in Nicaragua",
+  "repository": "https://github.com/apinic/earthquakes",
+  "website": "http://earthquakes.apinic.org/",
+  "keywords": [
+    "earthquakes",
+    "nicaragua"
+  ]
+}
